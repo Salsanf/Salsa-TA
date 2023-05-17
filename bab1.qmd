@@ -1,0 +1,93 @@
+# BAB 1 Pendahuluan {.unnumbered}
+
+## **Latar Belakang** {.unnumbered}
+
+Pendidikan merupakan hal yang penting bagi setiap orang, bahkan pendidikan menjadi sebuah kewajiban yang harus dilaksanakan oleh setiap warga negara Indonesia. Pemerintah telah mewajibkan warga negara Indonesia untuk mengenyam pendidikan dasar selama 9 tahun. Hal tersebut tertuang dalam Undang-undang Dasar 1945 pasal 31 ayat 2 yang menyatakan bahwa warga negara Indonesia wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya. Dengan pendidikan, seseorang akan memiliki ilmu untuk mengembangkan dirinya sendiri yang akan berguna untuk mengembangkan negaranya. Salah satu tujuan pendidikan adalah untuk memperbaiki kualitas hidup seseorang. Dengan pendidikan yang tinggi, seseorang akan memiliki peluang yang lebih besar untuk memperoleh pekerjaan yang layak sehingga mereka akan memiliki kesejahteraan hidup yang lebih tinggi dan dapat memperbaiki kualitas hidup mereka (Nawawi, 2011). Salah satu hal yang harus dikuasai saat menempuh pendidikan adalah kemampuan membaca.
+
+Kemampuan membaca sangat erat kaitannya dengan literasi membaca. Literasi membaca dapat didefinisikan sebagai kapasitas individu dalam memahami, menggunakan, merenungkan, dan tercurah secara penuh pada teks tertulis untuk mencapai cita-cita, mengembangkan pengetahuan dan potensi, serta berpartisipasi dalam masyarakat (PISA Governing Board Indonesia, 2019). Kemampuan  literasi membaca menjadi salah satu fokus penting yang harus diperhatikan. Memiliki kemampuan literasi membaca yang baik, akan mempermudah seseorang untuk memecahkan masalah yang ia temui (Inten, 2017). Membaca merupakan dasar seseorang untuk menemukan akar masalah yang harus ia selesaikan. Dalam dunia pendidikan, seorang siswa harus bisa membaca untuk memahami materi sehingga bisa mengerjakan ujian yang harus mereka tempuh.  Peserta didik yang memiliki kemampuan literasi membaca yang tinggi akan memiliki kemampuan yang tinggi pula dalam menerima, mengolah, dan menyikapi informasi yang diterima sehingga peserta didik dapat mengambil keputusan dengan tepat ketika menghadapi masalah yang dialaminya dalam kehidupan sehari-hari (Mardliyah, 2019).
+
+Salah satu program  yang mengukur kemampuan literasi membaca adalah \*Programme for International Student Assessment\* (PISA\*).\* Survei PISA diinisiasi oleh organisasi kerjasama dan pembangunan ekonomi atau biasa disebut OECD \*(Organization for Economic Co-operation and Development).\* PISA telah terlaksana sebanyak delapan kali dengan diikuti oleh 79 negara, termasuk Indonesia. Selain untuk mengukur kemampuan literasi membaca, PISA digunakan untuk mengukur kemampuan literasi matematika dan  literasi sains. PISA juga dapat digunakan untuk membandingkan sistem pendidikan di Indonesia dengan negara lain sehingga melalui program PISA, suatu negara dapat terpacu untuk meningkatkan prestasi, kesejahteraan, dan ketertarikan siswanya terhadap kegiatan belajar (PISA Governing Board Indonesia, 2019).
+
+Berdasar laporan PISA 2018 Indonesia, kemampuan literasi membaca siswa di Indonesia memiliki nilai terendah dibandingkan dengan kemampuan literasi matematika dan literasi sains. Dibandingkan dengan PISA Indonesia tahun 2015, terjadi penurunan yang drastis dari nilai literasi membaca siswa pada PISA Indonesia tahun 2018. Pada tahun 2018, 60% siswa Indonesia memiliki kemampuan membaca di bawah kemampuan minimal membaca PISA. Kemampuan membaca siswa Indonesia sebesar 371 poin, jauh dibawah rata-rata OECD (PISA Governing Board Indonesia, 2019). Skor literasi membaca siswa dapat dipengaruhi oleh beberapa faktor, diantaranya status sosial ekonomi, motivasi siswa, iklim sekolah dan kesejahteraan siswa.
+
+Erdem & Kaya (2021) menyebutkan bahwa status sosial ekonomi dan kesejahteraan siswa merupakan prediktor signifikan dari prestasi siswa. Menurut  Whitney & Bergin (2018) terdapat kesenjangan dalam membaca, yaitu perbedaan dalam skor tes membaca antara kelompok etnis dan status sosial ekonomi (SES) siswa. Siswa yang mampu secara sosial ekonomi biasanya tampil lebih baik di PISA daripada siswa yang kurang mampu dalam sosial dan ekonomi (OECD, 2019a). Status sosial ekonomi siswa tidak lepas dari latar belakang sosial ekonomi orang tuanya . Latar belakang sosial ekonomi orang tua seperti jabatan dan pekerjaan akan mempengaruhi anaknya dalam menjalani kehidupan sehari-hari. Seorang siswa yang berasal dari orang tua dengan status sosial ekonomi cukup, diberi fasilitas lengkap dan uang saku yang lebih akan memiliki kesempatan untuk memenuhi kebutuhan sekolah lebih besar dibandingkan dengan siswa yang berasal dari keluarga dengan sosial ekonomi yang rendah. Sehingga kemampuan mereka dalam berprestasi juga jauh lebih tinggi dibandingkan siswa yang berasal dari keluarga dengan SES rendah.
+
+Selain SES, motivasi membaca juga memiliki pengaruh terhadap kemampuan literasi membaca siswa. Menurut Davis dkk (2018) motivasi membaca memiliki potensi untuk mempengaruhi perkembangan membaca dan merupakan kontributor penting dalam prestasi membaca.  Pendapat yang hampir sama juga disampaikan oleh Wang & Guthrie (2004) serta Anmarkrud & Bråten (2009) bahwa motivasi membaca sangat berkaitan dengan pemahaman dan prestasi membaca. Motivasi juga berhubungan dengan emosi (kesenangan) terhadap belajar dan sekolah, dimana melalui kontrol dan nilai kognisi, emosi siswa berpengaruh terhadap prestasi siswa di sekolah (Hagenauer & Hascher, 2014). Disisi lain, belum banyak penelitian mengenai hubungan antara motivasi membaca dengan iklim sekolah. Penelitian saat ini hanya menunjukkan bahwa lingkungan sekolah dan dukungan guru terhadap siswa berhubungan dengan motivasi akademik (Fan & Williams, 2018).
+
+Menurut Aldridge dkk. (2016) iklim sekolah yang positif terbukti berpengaruh terhadap prestasi siswa dan merupakan prediktor yang kuat dari kesejahteraan siswa. Iklim sekolah yang positif dapat meningkatkan kenyamanan siswa dalam belajar sedangkan iklim sekolah yang negatif dikaitkan dengan peningkatan masalah perilaku antar siswa. Iklim sekolah dalam PISA 2018 diukur dalam beberapa aspek yaitu aspek perilaku mengganggu siswa, yang mengacu pada keamanan fisik dan sosio-emosional anggota sekolah termasuk aspek pembulian, pembolosan, dan keterlambatan siswa. Aspek belajar mengajar  mengacu pada praktek guru di kelas dan perilaku guru dalam memberikan pengajaran, termasuk semangat guru dalam mengajar serta dukungan guru dan praktik pengajaran guru dalam memberikan materi bahasa.  Aspek lingkungan komunitas sekolah mengacu pada hubungan siswa, guru, kepala sekolah, wali murid, dan masyarakat setempat dalam membangun lingkungan sekolah. Dalam aspek tersebut termasuk persepsi kompetisi dan kerja sama siswa di sekolah, keterlibatan orang tua di sekolah, dan rasa memiliki sekolah.  
+
+Disisi lain, penelitian mengenai peran mediasi kesejahteraan siswa terhadap prestasi akademik maupun prestasi membaca belum banyak dilakukan. Kesejahteraan siswa dapat diukur dengan beberapa indikator diantaranya pola kepuasan hidup (\*life satisfaction\*) dan kebermaknaan hidup siswa (\*eudaemonia\*),  \*student's feelings\* atau perasaan siswa, efikasi diri siswa dan rasa takut gagal, serta pola pikir berkembang (OECD, 2019c). Keempat indikator tersebut dapat mewakili kualitas siswa, kurangnya keraguan siswa akan masa depannya sehingga mereka memiliki kepuasan hidup dan memiliki penilaian positif terhadap diri mereka sendiri (OECD, 2019a). Kepuasan hidup siswa berkaitan dengan kebahagiaan dan dapat mengarahkan siswa pada kehidupan yang sukses dan memuaskan (Lyubomirsky dkk., 2005). Perasaan positif dan negatif siswa merupakan hasil yang penting untuk pribadi siswa, perasaan siswa juga berkaitan dengan prestasi akademik dan kesejahteraan siswa (OECD, 2017). Menurut Mccutchen dkk (2015) menanamkan pola pikir berkembang pada siswa dapat menghasilkan kinerja akademik yang lebih  baik
+
+Penelitian menggunakan variabel mediasi untuk menghubungkan variabel independen dan variabel dependen dapat dianalisis menggunakan model mediasi (MacKinnon, 2008). Penelitian Phan dkk. (2016) menggunakan model mediasi SEM untuk mengetahui pemodelan antara efikasi diri sosial, efikasi diri akademik, keterlibatan akademik dan prestasi siswa dengan variabel mediasi kesejahteraan siswa. Hasil yang diperoleh, efikasi diri sosial dan akademik, keduanya berhubungan dengan kesejahteraan siswa. Keterlibatan akademik dan kesejahteraan siswa di sekolah berfungsi sebagai mediator parsial dari efikasi diri sosial dan akademik pada keterlibatan akademik. Varela dkk. (2020) menggunakan analisis mediasi untuk mengetahui sejauh mana iklim sekolah dapat menjadi variabel mediasi yang menghubungkan variabel korban intimidasi (\*bullying\*) dengan kesejahteraan subjektif siswa. Hasil yang diperoleh dari penelitian tersebut adalah  iklim sekolah dapat memediasi hubungan tersebut dan terdapat hubungan negatif antara korban intimidasi dan kesejahteraan siswa di Chili dan Afrika Selatan.
+
+Selain itu, model mediasi juga dapat digunakan untuk mengetahui adanya pengaruh langsung, pengaruh tak langsung, dan pengaruh total pada model yang dibuat akibat pengaruh penggunaan variabel mediasi. Penelitian dengan variabel independen, variabel mediasi, dan variabel dependen lebih dari satu dapat dilakukan dengan menggunakan model mediasi analisis jalur. Rehman dkk. (2020) menggunakan model mediasi jalur untuk mengetahui peran dukungan sosial dan motivasi belajar dalam memediasi hubungan  antara kelelahan dan kesejahteraan subjektif. Penelitian tersebut menunjukkan bahwa dukungan sosial dan motivasi belajar secara signifikan menunjukkan hubungan antara kelelahan dan kesejahteraan psikologis. Murphy dkk. (2022) juga menggunakan model mediasi jalur untuk mengetahui peran kesulitan psikologis dalam memediasi hubungan antara bullying anak usia 9 tahun dengan pencapaian literasi membaca dan matematika. Hasil yang diperoleh adalah terdapat hubungan yang signifikan antara intimidasi dengan pencapaian matematika dan membaca melalui kesulitan psikologis.
+
+Berdasarkan latar belakang yang telah disampaikan, penelitian ini memiliki tujuan untuk menyelidiki hubungan antara status sosial ekonomi, motivasi, dan iklim sekolah terhadap kemampuan literasi membaca siswa di Indonesia melalui mediasi kesejahteraan siswa berdasarkan data PISA 2018. Dalam penelitian ini, kesejahteraan siswa terdiri dari empat indikator yaitu kepuasan hidup siswa dan makna hidup siswa, perasaan siswa, efikasi diri dan  takut gagal siswa, serta pola pikir berkembang. Keempat indikator tersebut sesuai dengan indikator yang membangun kesejahteraan siswa dalam PISA 2018 (OECD, 2019c). Variabel iklim sekolah terdiri dari tiga indikator yaitu iklim disiplin, persepsi kompetisi di sekolah dan persepsi kerjasama di sekolah seperti indikator iklim sekolah pada penelitian yang dilakukan oleh Karaman (2022).
+
+## **Identifikasi Masalah** {.unnumbered}
+
+Berdasarkan latar belakang yang sudah diuraikan, identifikasi masalah pada penelitian ini adalah sebagai berikut:
+
+1.  Berdasarkan data PISA 2018, skor kemampuan literasi membaca siswa Indonesia masih jauh dibawah rata-rata OECD, sehingga kemampuan literasi membaca Indonesia masih rendah.
+
+2.  Skor literasi membaca siswa Indonesia pada tahun 2018 mengalami penurunan drastis.
+
+3.  Belum ada penelitian untuk menyelidiki hubungan antara status sosial ekonomi, motivasi, dan iklim sekolah  terhadap kemampuan literasi membaca melalui mediasi kesejahteraan siswa di Indonesia. Sehingga perlu diketahui pengaruh status sosial ekonomi, motivasi dan iklim sekolah terhadap kemampuan literasi membaca siswa melalui kesejahteraan siswa Indonesia.
+
+## **Batasan Masalah** {.unnumbered}
+
+Berdasarkan latar belakang dan identifikasi masalah diatas, batasan masalah dalam penelitian ini adalah penelitian ini terbatas pada kemampuan literasi membaca siswa di Indonesia berdasarkan data PISA 2018 yang dipengaruhi oleh faktor status sosial ekonomi siswa, motivasi, dan iklim sekolah melalui variabel kesejahteraan siswa. Variabel iklim sekolah terbatas pada tiga indikator yaitu iklim disiplin, persepsi kompetisi di sekolah, dan persepsi kerjasama di sekolah.
+
+## **Rumusan Masalah** {.unnumbered}
+
+Dari berbagai uraian yang penulis kemukakan pada bagian latar belakang diatas, penulis dapat merumuskan permasalahannya sebagai berikut:
+
+1.  Bagaimana pengaruh status sosial ekonomi, motivasi, dan iklim sekolah terhadap kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur?
+
+2.  Bagaimana pengaruh kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa terhadap kemampuan literasi membaca siswa menggunakan model mediasi analisis jalur?
+
+3.  Berdasarkan model mediasi analisis jalur, apakah status sosial ekonomi, motivasi, dan  iklim sekolah berpengaruh langsung terhadap kemampuan literasi membaca siswa?
+
+4.  Berdasarkan model mediasi jalur apakah status sosial ekonomi berpengaruh tak langsung terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa?
+
+5.  Berdasarkan model mediasi jalur apakah motivasi membaca berpengaruh tak langsung terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa?
+
+6.  Berdasarkan model mediasi jalur apakah iklim sekolah berpengaruh tak langsung terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa?
+
+## **Tujuan** {.unnumbered}
+
+Berdasarkan rumusan masalah tersebut, maka dapat diketahui tujuan penelitian adalah sebagai berikut:
+
+1.  Mengetahui pengaruh status sosial ekonomi, motivasi, dan iklim sekolah terhadap kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur
+
+2.  Mengetahui pengaruh kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa terhadap kemampuan literasi membaca siswa menggunakan model mediasi analisis jalur
+
+3.  Mengetahui pengaruh langsung antara antara status sosial ekonomi, motivasi, dan iklim sekolah terhadap kemampuan literasi membaca siswa berdasarkan model mediasi analisis jalur.
+
+4.  Mengetahui pengaruh tak langsung antara status sosial ekonomi terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur.
+
+5.  Mengetahui pengaruh tak langsung antara motivasi terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur.
+
+6.  Mengetahui pengaruh tak langsung antara iklim sekolah terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur.
+
+## **Manfaat** {.unnumbered}
+
+Manfaat yang dapat diambil dari penelitian ini adalah sebagai berikut:
+
+1.  Manfaat Teoritis
+
+    a\. Penelitian ini diharapkan dapat memberikan gambaran mengenai hubungan antara status sosial ekonomi, motivasi, dan iklim sekolah terhadap kemampuan literasi membaca siswa melalui kepuasan hidup siswa, kebermaknaan hidup siswa, perasaan siswa, dan pola pikir berkembang siswa menggunakan model mediasi analisis jalur.
+
+    b\. Penelitian ini diharapkan dapat menambah wawasan dan ilmu pengetahuan kepada pihak-pihak yang  berkepentingan
+
+    c\. Sebagai referensi bagi penelitian selanjutnya khususnya yang berkaitan dengan penelitian data PISA
+
+2.  Manfaat Praktis
+
+    a\. Bagi Guru, sebagai bahan pertimbangan pentingnya memahami psikologi siswa ketika belajar mengajar
+
+    b\. Bagi Pemerintah, sebagai bahan evaluasi dan pertimbangan dalam mengambil kebijakan untuk meningkatkan pendidikan di Indonesia
+
+    c\. Bagi penulis, dapat membantu pemerintah dalam memberikan rekomendasi untuk meningkatkan prestasi akademik, khususnya kemampuan membaca siswa di Indonesia
+
+    d\. Bagi penulis, dapat mengembangkan ilmu pengetahuan yang telah diperoleh untuk pengabdian masyarakat.

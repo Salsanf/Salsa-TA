@@ -1,0 +1,147 @@
+# BAB 3 Metode Penelitian {.unnumbered}
+
+## A. Jenis Penelitian {.unnumbered}
+
+Penelitian ini merupakan penelitian kuantitatif karena data yang digunakan berupa angka dan pengolahannya menggunakan analisis statistik. Penelitian ini merupakan penelitian kausal komparatif, yaitu penelitian dengan karakteristik masalah berupa hubungan sebab akibat antara dua variabel atau lebih.
+
+## B. Populasi dan Sampel Penelitian {.unnumbered}
+
+Populasi penelitian ini adalah siswa Indonesia yang berusia 15 tahun. Pengamatan Data PISA 2018 Indonesia terdiri dari 12.098 siswa dan 397 sekolah. Namun, penelitian ini hanya menggunakan sampel siswa Indonesia yang memberikan respon lengkap pada setiap variabel penelitian, yaitu sebanyak 10.402 siswa dari 397 sekolah.
+
+## C. Teknik Pengumpulan Data {.unnumbered}
+
+Penelitian ini menggunakan data sekunder yang dihimpun oleh OECD *(Organization for Economic Co-operation and Development*). Data tersebut dapat diakses secara gratis  pada website resmi OECD dengan alamat url <https://www.oecd.org/pisa/data/>.
+
+## D. Variabel Penelitian {.unnumbered}
+
+Variabel penelitian terdiri dari variabel independen, variabel mediasi, dan variabel dependen. Variabel-variabel penelitian yang digunakan dapat dilihat pada Tabel 2.
+
+### 1. Variabel Independen {.unnumbered}
+
+Variabel independen terdiri dari status sosial ekonomi, motivasi, dan iklim sekolah . Penjelasan dari variabel-variabel tersebut adalah sebagai berikut.
+
+#### a. Status Sosial Ekonomi{.unnumbered}
+
+Status sosial ekonomi diukur melalui tiga indikator yaitu, pendidikan orang tua (PARED), pekerjaan orang tua (HISEI), dan indeks kepemilikan rumah (HOMEPOS) yang dikodekan dengan ESCS. Jika terdapat data hilang pada salah satu indikator, maka nilai ESCS tidak dihitung. ESCS ditentukan dari *first principal component* dengan rata-rata 0 dan standar deviasi 1.
+
+#### b. Motivasi {.unnumbered}
+
+Variabel motivasi dalam PISA 2018 dikodekan dengan WORKMAST yang dibangun dari tanggapan siswa sejauh mana siswa merasa setuju, sangat setuju, tidak setuju, dan sangat tidak setuju terhadap empat item pernyataan yaitu:
+
+1.  Aku menemukan kepuasan dalam bekerja keras semampu yang aku lakukan.
+
+2.  Ketika aku memulai suatu tugas, aku berkomitmen untuk menyelesaikannya.
+
+3.  Salah satu kenikmatan yang aku dapatkan dari melakukan suatu tugas adalah ketika kemampuanku meningkat dibanding sebelumnya.
+
+4.  Jika aku tidak ahli dalam melakukan sesuatu, aku lebih suka untuk tetap berjuang untuk menguasainya daripada beralih melakukan sesuatu yang mungkin lebih aku kuasai.
+
+#### c. Iklim Sekolah {.unnumbered}
+
+Variabel iklim sekolah dalam penelitian ini diukur dari tiga indikator yaitu  iklim disiplin, persepsi kompetisi di sekolah dan persepsi kerja sama di sekolah. Penjelasan dari masing-masing indikator tersebut adalah sebagai berikut:
+
+**1) Iklim Disiplin** 
+
+Indeks iklim disiplin dikodekan dengan DISCLIMA yang  dibangun dari penjelasan siswa terhadap seberapa sering hal-hal dibawah ini terjadi dalam pelajaran Bahasa Indonesia (\"di setiap pelajaran\",\"di hampir setiap pelajaran\", \"di beberapa pelajaran\", \"tidak pernah atau sangat jarang\"):
+
+a\. Para siswa tidak mendengarkan apa yang diajarkan guru.
+
+b\. Berisik dan gaduh.
+
+c\. Guru harus menunggu lama sampai para siswa tenang.
+
+d\. Para siswa tidak bisa belajar dengan baik
+
+e\. Para siswa tidak segera belajar, meskipun pelajaran telah dimulai.
+
+**2) Persepsi Kompetisi di Sekolah**
+
+Indeks persepsi kompetisi di sekolah dikodekan dengan PERCOM yang dibangun dengan empat item pernyataan kebenaran (\"tidak benar sama sekali\", \"sedikit benar\", \"benar sekali\", \"sangat benar sekali\") mengenai:
+
+a\. Para siswa terlihat menghargai adanya persaingan
+
+b\. Para siswa terlihat bersaing satu sama lain.
+
+c\. Para siswa tampaknya memiliki pemahaman yang sama bahwa persaingan antar siswa itu penting.
+
+d\. Para siswa merasa bahwa mereka dibandingkan dengan siswa-siswa lain.
+
+**3) Persepsi Kerjasama di Sekolah**
+
+Indeks persepsi kerja sama di sekolah dikodekan dengan PERCOOP yang dibangun dengan empat item pernyataan kebenaran (\"tidak benar sama sekali\", \"sedikit benar\", \"benar sekali\", \"sangat benar sekali\") mengenai:
+
+a\. Para siswa terlihat menghargai adanya kerjasama.
+
+b\. Para siswa terlihat saling bekerja sama satu sama lain.
+
+c\. Para siswa tampaknya memiliki pemahaman yang sama bahwa kerjasama antar siswa itu penting.
+
+d\. Para siswa merasa bahwa mereka didorong untuk bekerja sama dengan siswa lain.
+
+## 2.Variabel Mediasi {.unnumbered}
+
+Variabel mediasi dalam penelitian ini adalah kesejahteraan siswa. Dalam PISA 2018, kesejahteraan siswa terbagi menjadi dua dimensi yaitu, dimensi psikologi dan dimensi kognitif. Dimensi psikologi terdiri dari tiga indikator yaitu kepuasan hidup dan arti hidup siswa, perasaan siswa, serta efikasi diri siswa dan rasa takut gagal. Sedangkan dimensi kognitif adalah pola pikir berkembang siswa.
+
+### a) Kepuasan Hidup dan Makna Hidup Siswa {.unnumbered}
+
+Kepuasan hidup siswa diukur dari kepuasan hidup siswa dalam skala dari 0 (sama sekali tidak puas) hingga 10 (sangat puas). Indeks makna hidup siswa dikodekan dengan EUDMO yang dibangun dari tanggapan siswa sejauh mana mereka setuju (\"sangat tidak setuju\", \"tidak setuju\", \"setuju\", dan \"sangat setuju\") terhadap pernyataan berikut ini :
+
+1\) Aku memiliki arti atau tujuan yang jelas.
+
+2\) Aku telah menemukan makna yang baik dalam hidup.
+
+3\) Aku sudah mengerti apa yang memberi makna dalam hidupku.
+
+### b) Perasaan Positif Siswa {.unnumbered}
+
+Perasaan siswa diukur dari tanggapan siswa terhadap frekuensi (\"tidak pernah\",\"jarang\",\"kadang-kadang\",\"selalu\") perasaan mereka disekolah (bahagia, gembira, bangga, gembira, ceria, takut, sengsara, dan sedih). Tiga dari perasaan positif tersebut (bahagia, gembira, ceria) digabung untuk membuat perasaan positif (SWBP), sedangkan indeks perasaan negatif tidak dibuat karena rendahnya konsistensi indeks di seluruh negara peserta PISA.
+
+### c) Efikasi diri dan takut gagal siswa {.unnumbered}
+
+Indeks efikasi diri dikodekan dengan RESILIENCE yang dibangun dari tanggapan siswa (\"sangat tidak setuju\", \"tidak setuju\",\"setuju\", dan \"sangat setuju\") terhadap pernyataan berikut ini:
+
+1\) Aku biasanya dapat mengatasi kondisi apapun.
+
+2\) Aku merasa bangga telah menyelesaikan beberapa hal.
+
+3\) Aku merasa aku dapat melakukan banyak hal di waktu yang sama.
+
+4\) Keyakinanku pada diriku sendiri membuatku mampu melewati masa-masa sulit
+
+5\) Ketika aku berada dalam situasi yang sulit, aku biasanya dapat menemukan jalan keluar darinya.
+
+Sedangkan indeks takut gagal dalam PISA 2018 dikodekan dengan GFOFAIL. Indeks tersebut dibangun dari gabungan tanggapan mereka (\"sangat tidak setuju\", \"tidak setuju\",\"setuju\", dan \"sangat setuju\") terhadap pernyataan berikut ini:
+
+1\) Ketika aku gagal, aku khawatir tentang apa yang akan dipikirkan orang lain tentang diriku.
+
+2\) Ketika aku gagal, aku takut jangan-jangan aku tidak cukup berbakat.
+
+3\) Ketika aku gagal, aku menjadi ragu dengan rencana masa depanku.
+
+### d) Pola pikir berkembang {.unnumbered}
+
+Pola pikir berkembang dibangun dari tanggapan siswa (\"sangat tidak setuju\", \"tidak setuju\", \"setuju\", \"sangat setuju\") terhadap pernyataan kecerdasanmu adalah sesuatu tentang dirimu yang tidak dapat banyak kamu ubah.
+
+## 3. Variabel Dependen {.unnumbered}
+
+Variabel dependen penelitian ini adalah skor kemampuan literasi membaca siswa. Variabel dependen dalam penelitian ini dilambangkan dengan huruf latin  dan huruf yunani .Skor kemampuan literasi membaca tersebut diperoleh dari hasil rata-rata 10 capaian membaca siswa yang dilaporkan sebagai lima *plausible values (PV) in reading.* Dalam PISA 2018 dikodekan dengan PV1READ, PV2READ, PV3READ, PV4READ, PV5READ, PV6READ, PV7READ, PV8READ, PV9READ, dan PV10READ. *Plausible value* adalah kemungkinan skor berdasarkan kemampuan siswa (OECD, 2014).
+
+## E. Teknik Analisis Data {.unnumbered}
+
+Teknik analisis data dalam penelitian ini menggunakan analisis jalur  untuk mengetahui pengaruh status sosial ekonomi, motivasi, dan iklim sekolah  terhadap kemampuan literasi membaca siswa di Indonesia. Penelitian ini membagi model ke dalam model pengaruh total dan model pengaruh mediasi. Model pengaruh mediasi  dibagi lagi menjadi model pengaruh langsung dan model pengaruh tak langsung. Penelitian ini menggunakan metode maksimum likelihood untuk menduga parameter serta menggunakan Bootstrap untuk menduga standar error bagi penduga parameter. Interval kepercayaan ditentukan dari hasil dugaan standar error yang dihasilkan. Langkah-langkah analisis data dalam penelitian ini adalah sebagai berikut:
+
+1.  Melakukan analisis data menggunakan statistik deskriptif
+
+2.  Merancang model pengaruh mediasi dan model pengaruh total  menggunakan diagram jalur
+
+3.  Melakukan identifikasi awal pada model pengaruh mediasi
+
+4.  Melakukan pengujian asumsi regresi klasik
+
+5.  Melakukan estimasi parameter model pengaruh mediasi dengan metode maksimum likelihood dan estimasi standar error dari penduga parameter menggunakan Bootstrap.
+
+6.  Melakukan pengujian parameter model pengaruh mediasi menggunakan interval kepercayaan
+
+7.  Menentukan besar pengaruh total, pengaruh mediasi langsung dan tak langsung
+
+8.  Melakukan evaluasi model mediasi menggunakan nilai CFI, TLI, dan koefisien determinasi

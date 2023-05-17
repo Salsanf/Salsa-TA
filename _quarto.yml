@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Tugas Akhir"
+  author: "Salsa Nur Farida"
+  favicon: image/book.png
+  description: Skripsi S1
+  keyword: thesis, report, dataframe, r, data management
+  repo-url: https://github.com/Salsanf/
+  
+  
+  sidebar: 
+    background: "#ffe4d8"
+    logo: image/book.png
+    pinned: true
+    search: true
+    alignment: center
+    style: docked
+    collapse-level: 1
+    
+  chapters:
+    - index.qmd
+    - bab1.qmd
+    - bab2.qmd
+    - bab3.qmd
+    - bab4.qmd
+    - bab5.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      light: [cosmo, style.scss]
+
+editor: visual
